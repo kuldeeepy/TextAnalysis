@@ -1,2 +1,2 @@
 # TextAnalysis
-#Courtesy of IBM
+Courtesy of IBM
